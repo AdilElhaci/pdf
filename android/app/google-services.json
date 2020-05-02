@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50130391848",
+    "firebase_url": "https://eserlibrary.firebaseio.com",
+    "project_id": "eserlibrary",
+    "storage_bucket": "eserlibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50130391848:android:d48abe64c1c3a1e79f761d",
+        "android_client_info": {
+          "package_name": "com.example.librarywithm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50130391848-rm0d8sp56l0shf7ub2d532uda48tm833.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.librarywithm",
+            "certificate_hash": "77ce39fdcc2800212abad6312ef1ea3a73eab82a"
+          }
+        },
+        {
+          "client_id": "50130391848-m79egrj0r2ohjfulienrkt2peu7jkr06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJqqDrAgjanWq0QRyuCEw7HVIpJ8ksdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50130391848-m79egrj0r2ohjfulienrkt2peu7jkr06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
